@@ -55,7 +55,8 @@
       <workItem from="1717800285172" duration="248000" />
       <workItem from="1717800553852" duration="12783000" />
       <workItem from="1717980460528" duration="7000" />
-      <workItem from="1718017150594" duration="2940000" />
+      <workItem from="1718017150594" duration="4242000" />
+      <workItem from="1718146313653" duration="5115000" />
     </task>
     <servers />
   </component>
@@ -67,13 +68,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///Users/lucaspadueli/Desktop/modelos/model-linear-regression/model_linear_regression.ipynb</url>
-          <line>130</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/lucaspadueli/Desktop/modelos/model-linear-regression/model_linear_regression.ipynb</url>
-          <line>134</line>
-          <option name="timeStamp" value="3" />
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
